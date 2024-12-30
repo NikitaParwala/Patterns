@@ -1,6 +1,6 @@
 package JavaPatterns;
 
-public class halfPyramid {
+public class half_Pyramid {
 
 	public static void main(String[] args) {
 		int row = 5;
